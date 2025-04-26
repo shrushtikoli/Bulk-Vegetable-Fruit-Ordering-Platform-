@@ -20,28 +20,4 @@ A React-based web application for managing bulk orders of fresh produce, designe
 - React Router
 - Lucide React Icons
 
-## Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/bulk-produce-ordering.git
-cd bulk-produce-ordering
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Create a `.env` file based on `.env.example`
-
-4. Start the development server:
-```bash
-npm run dev
-```
-
-5. Build for production:
-```bash
-npm run build
-```
 
