@@ -20,4 +20,8 @@ A React-based web application for managing bulk orders of fresh produce, designe
 - React Router
 - Lucide React Icons
 
+##Live Demo
+
+-Visit The Live Application: https://bright-salmiakki-35df29.netlify.app/
+
 
